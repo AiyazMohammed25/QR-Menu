@@ -3,8 +3,8 @@
 A modern, serverless Full-Stack web application designed to replace paper menus with a dynamic, self-ordering QR system. Built exclusively for cloud deployment to scale automatically with restaurant traffic.
 
 ## 🌐 Live Application (Vercel)
-* **Customer QR Menu:** `https://[TERA-VERCEL-LINK].vercel.app`
-* **Admin Dashboard:** `https://[TERA-VERCEL-LINK].vercel.app/admin`
+* **Customer QR Menu:** [https://qr-menu-seven-rho.vercel.app/](https://qr-menu-seven-rho.vercel.app/)
+* **Admin Dashboard:** [https://qr-menu-seven-rho.vercel.app/admin](https://qr-menu-seven-rho.vercel.app/admin)
 
 *(Note: Replace the links above once deployed on Vercel)*
 
